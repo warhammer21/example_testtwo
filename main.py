@@ -24,4 +24,4 @@ print('dev_testing')
 print('dev_testing')
 
 def frun():
-    orint('heelo')
+    print('heelo')
