@@ -18,4 +18,10 @@ print('min renw chnages')
 print('min renw chnages')
 
 print('min renw chnages_2')
+print('dev_testing')
+print('dev_testing')
+print('dev_testing')
+print('dev_testing')
 
+def frun():
+    orint('heelo')
